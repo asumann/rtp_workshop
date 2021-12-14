@@ -1,1 +1,6 @@
 *.img
+test-datasets/
+fastqc/
+work/
+.nextflow*
+.nextflow/
